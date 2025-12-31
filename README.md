@@ -1,16 +1,12 @@
-## Hi there 👋
+# Mickey Moore
+**AI & ML Specialist | Python | Prompt Engineering**
+he/him
 
-<!--
-**mickeywmoore/mickeywmoore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Technical Stack
+* **Languages:** Python, SQL (Advanced)
+* **Machine Learning:** TensorFlow, Keras, Scikit-learn, XGBoost, CatBoost
+* **Data Engineering:** Pandas, Selenium, SQLite, Automation Pipelines
+* **Environment:** Linux, Git, Jupyter
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Connect
+* [**Kaggle Profile**](https://www.kaggle.com/mickeywmoore)
