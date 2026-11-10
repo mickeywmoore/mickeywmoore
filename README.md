@@ -1,13 +1,15 @@
 # Mickey Moore
 
-**Python Software Engineer | ML & Data Pipelines | Offensive Security & CLI Automation**
+**Python Software Engineer | AI/LLM Evaluation Infrastructure | Security & Data Pipelines**
 
-Building modular Python CLI tools, leakage-safe machine learning pipelines, relational SQL feature stores, and automated security compliance workflows on Linux.
+Building zero-dependency Python CLI systems, LLM code-execution sandboxes, automated OWASP/SARIF security compliance gates, and leakage-safe machine learning pipelines on Linux.
 
 ---
 
 ### Featured Systems
 
+- **[EvalForge: LLM Code Arena & AST Safety Sandbox](https://github.com/mickeywmoore/llm-code-arena)** [![CI](https://github.com/mickeywmoore/llm-code-arena/actions/workflows/ci.yml/badge.svg)](https://github.com/mickeywmoore/llm-code-arena/actions/workflows/ci.yml)
+  Zero-dependency Python CLI (`evalforge`) benchmarking local (Ollama) and cloud LLM code generation via static Python AST security gating, isolated subprocess sandboxing, and RLHF/DPO preference JSONL export.
 - **[SecPulse: API Security Posture & SARIF Compliance Gate](https://github.com/mickeywmoore/api-security-posture-auditor)** [![CI](https://github.com/mickeywmoore/api-security-posture-auditor/actions/workflows/ci.yml/badge.svg)](https://github.com/mickeywmoore/api-security-posture-auditor/actions/workflows/ci.yml)
   Zero-dependency Python CLI (`secpulse`) auditing HTTP/API security headers, CORS & cookie hardening, CI/CD `--fail-under` posture gates, and OASIS SARIF v2.1.0 telemetry.
 - **[Retail-360: Customer Lifecycle & Neural LTV Engine](https://github.com/mickeywmoore/Retail-360-Customer-Lifecycle-Engine)** [![CI](https://github.com/mickeywmoore/Retail-360-Customer-Lifecycle-Engine/actions/workflows/ci.yml/badge.svg)](https://github.com/mickeywmoore/Retail-360-Customer-Lifecycle-Engine/actions/workflows/ci.yml)
@@ -19,7 +21,7 @@ Building modular Python CLI tools, leakage-safe machine learning pipelines, rela
 
 ### Technical Stack
 
-- **Languages & Packaging:** Python (3.10–3.14, `pyproject.toml`, `argparse` CLIs, Type Annotations), SQL (CTEs, Window Functions, SQLite), Bash
-- **Security & Compliance Engineering:** OWASP HTTP/API Posture Auditing, OASIS SARIF v2.1.0, Web Application Security, Automated Reconnaissance Tooling, Burp Suite
-- **Machine Learning & Data:** Scikit-learn, TensorFlow / Keras, XGBoost, Pandas, NumPy, Algorithmic Fairness Auditing
-- **DevOps & Testing:** GitHub Actions CI/CD, Ephemeral Socket & Integration Testing (`unittest` / `pytest`), Git, Linux (Debian / Kali)
+- **Languages & Systems:** Python (3.10–3.14, `ast`, `subprocess`, `pyproject.toml`, `argparse` CLIs, Type Annotations), SQL (CTEs, Window Functions, SQLite), Bash
+- **AI & LLM Infrastructure:** Local & Cloud LLM Inference Protocols (Ollama, OpenAI REST), Sandboxed Code Evaluation, RLHF / DPO Dataset Pipelines, Scikit-learn, TensorFlow / Keras, XGBoost
+- **Security Engineering:** Python AST Static Analysis, OWASP HTTP/API Posture Auditing, OASIS SARIF v2.1.0, Web Application Security, Burp Suite
+- **DevOps & Verification:** GitHub Actions CI/CD, Ephemeral Socket & Subprocess Integration Testing (`unittest` / `pytest`), Git, Linux (Debian / Kali)
