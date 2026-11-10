@@ -21,9 +21,3 @@ Building modular Python CLI tools, leakage-safe machine learning pipelines, rela
 * **Machine Learning & Data:** Scikit-learn, TensorFlow / Keras, XGBoost, Pandas, NumPy, Algorithmic Fairness Auditing
 * **DevOps & Testing:** GitHub Actions CI/CD, `unittest` / `pytest`, Git, Linux (Debian / Kali)
 * **Security Engineering:** Web Application Security, API Logic Auditing, Automated Reconnaissance Tooling, Burp Suite
-
----
-
-### Links
-
-* **[Kaggle Profile](https://www.kaggle.com/mickeywmoore)**
